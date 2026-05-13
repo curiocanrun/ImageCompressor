@@ -1,4 +1,4 @@
-# JPEG Image Compressor
+## JPEG Image Compressor
 
 A JPEG-style image compressor, implementing core ideas behind real-world JPEG compression including:
 
@@ -10,7 +10,7 @@ A JPEG-style image compressor, implementing core ideas behind real-world JPEG co
 
 ---
 
-# Discrete Cosine Transform (DCT)
+## Discrete Cosine Transform (DCT)
 
 Instead of storing pixels directly, DCT asks:
 
